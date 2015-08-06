@@ -1,13 +1,11 @@
-# 漫画阅读器 ComicReader
+# Application for Us – Comic Reader
 ===========================================================
-说明
+Reader
 ----------------------------------------------------------------------------------
-   大学期间一直喜欢看漫画，很多时候不能在电脑前看，就会下载漫画app在手机上看，那时候就想做个ComicReader App ,可惜自己什么都不会，呵呵。
-现在学了android大半年了，就拿漫画app练练手，虽然是个半成品，以后有时间尽量完善了。啊哈哈。。。。数据来自鼠绘漫画的。。。
+Anime is a style of Japanese animation which first appeared in the early 1900s and gained popularity in the 1970s. Today, it is widely popular in Japan and has a sizeable fan base throughout the world. 
 
-   这里用到了很多第三方库，当然有些被我改的乱七八糟了，真对不起原作者，啊哈哈希望别打我就可以了
-   
- 效果图：
+I personally extend this news to my fellow Otaku. I’m a fan of different version and genres of anime, comic cartoons and whatever animation it is.  Either Tim Burton nor Hayao Miyazaki is my favorite  -  now [here](http://www.yelp.com/biz/fairprice-movers-san-jose-6) is my comic reader for you. 
+
 ------------------------------------------------------------------------------------------------------------------
 ![](http://www.apkbus.com/data/attachment/forum/201504/14/091601ebox9utzm9f911mc.png)
 
