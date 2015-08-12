@@ -2,7 +2,7 @@
 ===========================================================
 Reader
 ----------------------------------------------------------------------------------
-Anime is a style of Japanese animation which first appeared in the early 1900s and gained popularity in the 1970s. Today, it is widely popular in Japan and has a sizeable fan base throughout the world. 
+This comic reader is one of the best platforms I have seen so far. From the current platform, I recreated the version and add some of the details that, surely, you will love. Check the screenshot and read every anime you want!
 
 I personally extend this news to my fellow Otaku. I’m a fan of different version and genres of anime, comic cartoons and whatever animation it is.  Either Tim Burton nor Hayao Miyazaki is my favorite  -  now [here](http://www.yelp.com/biz/fairprice-movers-san-jose-6) is my comic reader for you. 
 
